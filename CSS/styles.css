@@ -1,0 +1,133 @@
+body {
+	text-align: center;
+    color: #40514e;
+    margin: 0;
+	font-family: 'Merriweather', serif;
+}
+h1 {
+	margin: 50px auto 0 auto;
+	font-family: 'Sacramento', cursive;
+	font-size: 5.625rem;
+	color: #66bfbf;
+	font-weight: normal;
+	line-height: 2;
+}
+h2 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 2.5rem;
+	color: #66bfbf;
+}
+h3 {
+	font-family: 'Montserrat', sans-serif;
+	color: #11999e;
+}
+p {
+	color: #40514e;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: #EAF6F6;
+}
+footer {
+	background-color: #66bfbf;
+	margin-top: 2em;
+}
+.copyright {
+	color: #eaf6f6;
+}
+.footer-link {
+	color: #11999e;
+    padding: 0.5em;
+    font-size: 0.8rem;
+}
+
+.top-container {
+	background-color: #eaf6f6;
+	position: relative;
+	padding-top: 100px;
+}
+.middle-container {
+}
+.bottom-container {
+	padding-top: 1em;
+}
+.top-cloud {
+	position: absolute;
+	right: 340px;
+	top: 10%;
+}
+.bottom-cloud {
+	position: absolute;
+}
+.red {
+	height: 100px;
+	width: 100px;
+	background-color: red;
+	position: absolute;
+	left: 200px;
+	bottom: 300px;
+}
+.blue {
+	height: 100px;
+	width: 100px;
+	background-color: blue;
+	position: absolute;
+	right: 1080px;
+	bottom: 400px;
+}
+.yellow {
+	height: 100px;
+	width: 100px;
+	background-color: yellow;
+	position: absolute;
+}
+.footer-link {
+	color: #11999e;
+}
+.skill-row {
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+	line-height: 2;
+}
+.image-laptop {
+	width: 25%;
+	float: left;
+	margin-right: 30px;
+}
+.image-basketball {
+	width: 25%;
+	float: right;
+	margin-left: 30px;
+}
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Georgia;
+    color: #EAF6F6;
+    font-size: 14px;
+    background: #11999e;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+
+hr{
+border: 10px dotted #EAF6F6;
+border-bottom: 0px;
+
+width: 10%;
+
+}
